@@ -4,7 +4,7 @@
 The Ultimate Doom Emacs Cheat Sheet
 ===================================
 
-karronqiu
+
 
 42–54 minutes
 
